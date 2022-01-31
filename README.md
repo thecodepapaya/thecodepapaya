@@ -11,7 +11,7 @@
 
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently building [qoohoo](https://qoohoo.in/)
 - 👯 I’m looking to collaborate on projects made with Django, Python
 - 🤔 I’m looking for help with Docker and Kubernetes
 - 💬 Ask me about Flutter & Harry Potter
