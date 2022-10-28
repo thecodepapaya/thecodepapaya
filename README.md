@@ -1,11 +1,11 @@
 ### Hi there 👋
 ---
- I am Ashutosh Singh, also known by the username thecodepapaya, currently pursuing my bachelor's degree majoring in computer science from [Indian Institiute of Information Technology, Vadodara](http://www.iiitvadodara.ac.in). Feel free to connect with me here:
+ I am Ashutosh Singh, also known by the username thecodepapaya, freshly graduated from [Indian Institiute of Information Technology, Vadodara](http://www.iiitvadodara.ac.in). with a bachelor's degree computer science engineering. Feel free to connect with me here:
 
 [![Twitter Badge](https://img.shields.io/badge/-@thecodepapaya-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thecodepapaya)](https://twitter.com/thecodepapaya) 
 [![Stackoverflow Badge](https://img.shields.io/badge/-thecodepapaya-f48024?style=flat-square&labelColor=f48024&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/10505839/ashutosh-singh)](https://stackoverflow.com/users/10505839/ashutosh-singh)
 [![Linkedin Badge](https://img.shields.io/badge/-ashutoshsingh05as-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutoshsingh05as/)](https://www.linkedin.com/in/ashutoshsingh05as)
-[![Gmail Badge](https://img.shields.io/badge/-thecodepapaya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thecodepapaya@gmail.com)](mailto:hello@thecodepapaya.dev)
+[![Gmail Badge](https://img.shields.io/badge/-hello@thecodepapaya.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@thecodepapaya.dev)](mailto:hello@thecodepapaya.dev)
 [![Discord Badge](https://img.shields.io/badge/-bLaCkLiGhT_4522-purple?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/878192996825305128)](https://discord.com/users/878192996825305128)
 [![Telegram Badge](https://img.shields.io/badge/-@thecodepapaya-darkgreen?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/thecodepapaya)](https://t.me/thecodepapaya)
 
