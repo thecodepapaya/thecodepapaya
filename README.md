@@ -24,3 +24,6 @@
 
 ![Ashutosh's Github Stats](https://readme.aashutosh.dev/api?username=thecodepapaya&show_icons=true&include_all_commits=true&theme=dark)
 ![Ashutosh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thecodepapaya&hide=TeX&layout=compact&theme=dark)
+
+
+![](https://komarev.com/ghpvc/?username=thecodepapaya&color=green)
