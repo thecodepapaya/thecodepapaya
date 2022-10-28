@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
- I am Ashutosh Singh, also known by the username thecodepapaya, freshly graduated from [Indian Institiute of Information Technology, Vadodara](http://www.iiitvadodara.ac.in). with a bachelor's degree computer science engineering. Feel free to connect with me here:
+ I am Ashutosh Singh, also known by the username [thecodepapaya](https://www.google.com/search?q=thecodepapaya). Freshly graduated from [Indian Institiute of Information Technology, Vadodara](http://www.iiitvadodara.ac.in) with a bachelor's degree in Computer Science and Engineering. Feel free to connect with me here:
 
 [![Twitter Badge](https://img.shields.io/badge/-@thecodepapaya-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thecodepapaya)](https://twitter.com/thecodepapaya) 
 [![Stackoverflow Badge](https://img.shields.io/badge/-thecodepapaya-f48024?style=flat-square&labelColor=f48024&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/10505839/ashutosh-singh)](https://stackoverflow.com/users/10505839/ashutosh-singh)
